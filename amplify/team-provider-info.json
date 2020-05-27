@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-todo-appsync-graphql-dev-142806-authRole",
+            "UnauthRoleArn": "arn:aws:iam::004091259403:role/amplify-todo-appsync-graphql-dev-142806-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::004091259403:role/amplify-todo-appsync-graphql-dev-142806-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-todo-appsync-graphql-dev-142806-deployment",
+            "UnauthRoleName": "amplify-todo-appsync-graphql-dev-142806-unauthRole",
+            "StackName": "amplify-todo-appsync-graphql-dev-142806",
+            "StackId": "arn:aws:cloudformation:us-east-1:004091259403:stack/amplify-todo-appsync-graphql-dev-142806/d12b27d0-a047-11ea-8064-0ef7f3f34731",
+            "AmplifyAppId": "d1vr5o1ch29ssd"
+        }
+    }
+}
